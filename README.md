@@ -41,8 +41,8 @@ Full-stack developer specializing in **Luau** for low-level Roblox systems, API 
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_title=true&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hinikaa&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinikaa&layout=compact&theme=default&hide_title=true&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 ---
