@@ -1,4 +1,4 @@
-<h1 align="left">[Hinika]</h1>
+<h1 align="left">Hinika</h1>
 <p align="left">Full-Stack Developer — Luau & Python | Roblox Systems Engineering</p>
 
 ---
