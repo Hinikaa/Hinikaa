@@ -38,15 +38,6 @@ Full-stack developer specializing in **Luau** for low-level Roblox systems, API 
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hinikaa&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinikaa&layout=compact&theme=default&hide_title=true&hide_border=true" height="160" alt="Top languages" />
-</p>
-
----
-
 ### Contact
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1511719625346383993)
